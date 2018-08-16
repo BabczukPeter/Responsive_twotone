@@ -1,0 +1,16 @@
+{
+  "name": "traversy_media",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^10.8.0",
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
